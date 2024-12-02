@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProvaCauaPereiraLP2/static/css/main.d221dc40.css",
+    "main.js": "/ProvaCauaPereiraLP2/static/js/main.e6471b3b.js",
+    "index.html": "/ProvaCauaPereiraLP2/index.html",
+    "main.d221dc40.css.map": "/ProvaCauaPereiraLP2/static/css/main.d221dc40.css.map",
+    "main.e6471b3b.js.map": "/ProvaCauaPereiraLP2/static/js/main.e6471b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.e6471b3b.js"
+  ]
+}
